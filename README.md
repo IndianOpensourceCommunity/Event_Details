@@ -21,7 +21,7 @@ Here you can find the Currently active Events of IOC.
 ➢ Podman security\
   • Introduce capabilities\
 ➢ Podman networking\
-  • Introduce capabilities
+  - Introduce capabilities
 
 #### HANDS-ON
 
