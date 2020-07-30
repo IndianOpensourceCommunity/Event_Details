@@ -18,10 +18,10 @@ Here you can find the Currently active Events of IOC.
 ➢ Port-forwarding using podman\
 ➢ Running a Pod using Podman\
 ➢ Port-forwarding with pod\
-➢ Podman security
+➢ Podman security\
   • Introduce capabilities\
 ➢ Podman networking\
-  • Introduce capabilities\
+  • Introduce capabilities
 
 #### HANDS-ON
 
@@ -34,7 +34,7 @@ Here you can find the Currently active Events of IOC.
 ➢ Inspecting a pod for accessing container\
 ➢ Running container with capabilities\
 ➢ Create network\
-➢ Host an application using network\
+➢ Host an application using network
 
 #### GIT & GITHUB TOPICS
 
@@ -53,7 +53,7 @@ Here you can find the Currently active Events of IOC.
 ➢ Git add and commit\
 ➢ Git push\
 ➢ Git fork\
-➢ Pull Request\
+➢ Pull Request
 
 #### HANDS-ON
 ➢ Opening a Pull Request\
@@ -63,4 +63,4 @@ Here you can find the Currently active Events of IOC.
 ➢ Tagging\
 ➢ Git Checkout\
 ➢ Git vs Github\
-➢ GitHub Labs\
+➢ GitHub Labs
